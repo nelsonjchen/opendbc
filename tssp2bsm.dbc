@@ -41,3 +41,5 @@ BO_ 1014 BSM_PRETTY_SURE: 8 XXX
  SG_ L_FAR : 8|1@0+ (1,0) [0|1] "" XXX
  SG_ R_SIDE : 1|1@0+ (1,0) [0|1] "" XXX
  SG_ R_FAR : 10|1@0+ (1,0) [0|1] "" XXX
+ SG_ SIDE_ENABLED : 7|1@0+ (1,0) [0|1] "" XXX
+ SG_ FAR_ENABLED : 15|1@0+ (1,0) [0|1] "" XXX
